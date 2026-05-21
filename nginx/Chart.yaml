@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nginx-helm-chart
+description: A clean minimal Nginx Helm chart template
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
